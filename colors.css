@@ -1,0 +1,19 @@
+.cuadro{
+
+    width: 450px;
+    height: 500px;
+    border: 3px solid black;
+    
+}
+
+div{
+    width: 85px;
+    height:85px ;
+    background-color: burlywood;
+    border: 2px solid red;
+    float: left;
+    padding-bottom: 13px;
+}
+.qom{
+    background:green;
+}
